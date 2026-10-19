@@ -1,8 +1,5 @@
 <!--
   README de perfil: Iván / Zarkuro
-  Este archivo mezcla Markdown con HTML compatible con GitHub.
-  Las frases de "actividad" son una presentación editorial, no datos en tiempo real.
-  Personaliza las tecnologías y responsabilidades cuando lo consideres necesario.
 -->
 
 <div align="center">
