@@ -89,6 +89,7 @@ curiosidad       = investigar por qué funciona (o por qué falla)
 prioridad        = que sea útil para quien lo necesita
 mentalidad       = aprender, probar y corregir
 preferencia      = sistemas claros > soluciones innecesariamente complejas
+chistes          = malos
 ```
 
 <details>
