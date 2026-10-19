@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="360" viewBox="0 0 1400 360" role="img" aria-label="Iván, Zarkuro. Ingeniería de sistemas, infraestructura y automatización.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#101c2a"/>
+      <stop offset="65%" stop-color="#0b1220"/>
+      <stop offset="100%" stop-color="#112437"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.8" cy="0.45" r="0.72">
+      <stop offset="0%" stop-color="#1b6c84" stop-opacity="0.38"/>
+      <stop offset="100%" stop-color="#1b6c84" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="35" height="35" patternUnits="userSpaceOnUse">
+      <path d="M35 0 H0 V35" fill="none" stroke="#6e9aac" stroke-opacity=".09" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#40d6c8"/>
+      <stop offset="1" stop-color="#60adf5"/>
+    </linearGradient>
+  </defs>
+  <rect width="1400" height="360" rx="24" fill="url(#bg)"/>
+  <rect width="1400" height="360" rx="24" fill="url(#glow)"/>
+  <rect width="1400" height="360" rx="24" fill="url(#grid)"/>
+  <rect x="28" y="25" width="1344" height="310" rx="16" fill="none" stroke="#53788c" stroke-opacity=".27" />
+  <g fill="#36c9bb">
+    <circle cx="68" cy="61" r="6"/><circle cx="91" cy="61" r="6" fill="#f7ba69"/><circle cx="114" cy="61" r="6" fill="#d77a85"/>
+  </g>
+  <text x="155" y="67" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" letter-spacing="3" fill="#9eb6c7">ZARKURO  /  DESARROLLO</text>
+  <rect x="59" y="100" width="6" height="125" rx="3" fill="url(#accent)"/>
+  <text x="91" y="173" fill="#f1f8fb" font-family="DejaVu Sans,Arial,sans-serif" font-size="76" font-weight="700" letter-spacing="1">ZARKURO</text>
+  <text x="95" y="218" fill="#a9c1ce" font-family="DejaVu Sans,Arial,sans-serif" font-size="25">Iván · Sistemas · Infraestructura · Automatización</text>
+  <path d="M96 245 H670" stroke="#4d7184" stroke-width="1" opacity=".6"/>
+  <text x="95" y="282" fill="#56d1c8" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" letter-spacing=".3">Entender el problema. Construir la solución.</text>
+  <g transform="translate(818 85)">
+    <rect width="504" height="222" rx="17" fill="#0a1420" fill-opacity=".91" stroke="#416b80" stroke-width="1.5"/>
+    <rect x="0" y="0" width="504" height="43" rx="17" fill="#223345"/>
+    <rect x="0" y="21" width="504" height="22" fill="#223345"/>
+    <circle cx="25" cy="22" r="6" fill="#e67573"/><circle cx="46" cy="22" r="6" fill="#f2bb71"/><circle cx="67" cy="22" r="6" fill="#54c5a4"/>
+    <text x="252" y="28" text-anchor="middle" font-family="DejaVu Sans Mono,monospace" font-size="15" fill="#b4c8d6">zarkuro@dev ~ %</text>
+    <text x="28" y="83" font-family="DejaVu Sans Mono,monospace" font-size="18" fill="#56d1c8">&gt; enfoque --actual</text>
+    <text x="28" y="121" font-family="DejaVu Sans Mono,monospace" font-size="16" fill="#e5f1f5">[01] investigar   <tspan fill="#6bbbda">✔</tspan></text>
+    <text x="28" y="151" font-family="DejaVu Sans Mono,monospace" font-size="16" fill="#e5f1f5">[02] resolver     <tspan fill="#6bbbda">✔</tspan></text>
+    <text x="28" y="181" font-family="DejaVu Sans Mono,monospace" font-size="16" fill="#e5f1f5">[03] mejorar     <tspan fill="#6bbbda">✔</tspan></text>
+    <rect x="29" y="197" width="11" height="3" fill="#56d1c8" />
+  </g>
+  <path d="M709 44 L766 44 L788 65 L794 65" stroke="#5ecaba" stroke-width="2" fill="none" opacity=".65"/>
+  <circle cx="709" cy="44" r="4" fill="#5ecaba" opacity=".9"/><circle cx="794" cy="65" r="4" fill="#5ecaba" opacity=".9"/>
+</svg>
